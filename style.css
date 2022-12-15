@@ -1,0 +1,51 @@
+body{
+    background-image: url(./asset/absolutvision-82TpEld0_e4-unsplash.jpg);
+    margin: 50px;
+    padding: 5em;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+
+.container{
+    align-items: center;
+    height: 50vh;
+    background-color: white;
+}
+
+.card-container{
+    box-shadow: 2px 4px 0 0 gray;
+    border: 1px solid black;
+    width: 100%;
+    height: 100%;
+}
+
+.input-container{
+    display: block ;
+    text-align: center;
+    height: 200px;
+    
+}
+
+.input-container input{
+    border: 0;
+    outline: 0;
+    border-bottom: 1px solid black;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 10px;
+    font-size: 20;
+}
+.input-container button{
+    background-color: black;
+    color: white;
+}
+
+.task-container{
+    color: blue;
+    width: 100%;
+    text-align: center;
+}
+.lista{
+
+}
